@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'faraday'
+gem 'activemodel'
+gem 'webmock'
+gem 'pg'
+gem 'rake'
+gem 'rspec'
+gem 'standalone_migrations'
+gem 'shoulda'
+gem 'shoulda-matchers'
+gem 'json'
